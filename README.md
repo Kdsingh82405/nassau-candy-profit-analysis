@@ -157,10 +157,13 @@ The dataset contains key business attributes:
 * Use forecasting for better demand planning
 
 ---
+Published a research paper on “Product Profitability & Margin Analysis” on Zenodo
 
-## 🚀 Live Dashboard
+🔗 Research Paper (DOI):
+https://doi.org/10.5281/zenodo.19486898
 
-👉 https://e9envpexvbrayubbmrlbzb.streamlit.app/
+🔗 Live Dashboard:
+https://e9envpexvbrayubbmrlbzb.streamlit.app/
 
 ---
 
