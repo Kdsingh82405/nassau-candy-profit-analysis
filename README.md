@@ -165,6 +165,9 @@ https://doi.org/10.5281/zenodo.19486898
 🔗 Live Dashboard:
 https://e9envpexvbrayubbmrlbzb.streamlit.app/
 
+🔗 GitHub Repository:
+https://github.com/Kdsingh82405/nassau-candy-profit-analysis
+
 ---
 
 ## 📂 Project Structure
